@@ -18,7 +18,7 @@
 ```
 
 
-<h1 align="center">Mình đang học CS tại UIT-VNUHCM 🤓</h1>
+<h1 align="center">Mình đang học tại UIT-VNUHCM 🤓</h1>
 
 <br><br>
 <br><br>
