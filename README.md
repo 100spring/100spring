@@ -23,7 +23,7 @@
 <br><br>
 <br><br>
 
-<h2 align="center">🌐 Contact me 🌐</h2>
+<h2 align="center">🌐 My Socials 🌐</h2>
 
 <p align="middle">
   <a href="https://www.facebook.com/xuanbach.nguyenhoang">
